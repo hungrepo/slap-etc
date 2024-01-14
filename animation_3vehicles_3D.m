@@ -28,15 +28,15 @@ AUV_COL11= [0.9 0.2 0]; % red
 M=500;
 Sigma1_0=P1_save(:,1:6);
 mu1=Tracker1.x_hat(1,:);
-Data_Point1_0 = mvnrnd(mu1',(Sigma1_0+Sigma1_0.')'/2, M);
+% Data_Point1_0 = mvnrnd(mu1',(Sigma1_0+Sigma1_0.')'/2, M);
  
 Sigma2_0=P2_save(:,1:6);
 mu2=Tracker2.x_hat(1,:);
-Data_Point2_0 = mvnrnd(mu2',(Sigma2_0+Sigma2_0.')'/2, M);
+% Data_Point2_0 = mvnrnd(mu2',(Sigma2_0+Sigma2_0.')'/2, M);
  
 Sigma3_0=P3_save(:,1:6);
 mu3=Tracker3.x_hat(1,:);
-Data_Point3_0 = mvnrnd(mu3',(Sigma3_0+Sigma3_0.')'/2, M);
+% Data_Point3_0 = mvnrnd(mu3',(Sigma3_0+Sigma3_0.')'/2, M);
  
 
 q1_hat1_0=[mu1(1),mu1(2) mu1(3)];

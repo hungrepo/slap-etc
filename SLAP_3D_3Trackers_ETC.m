@@ -122,7 +122,7 @@ function Main
 % gain of coordination controller    
     kc = 0.02;
 % set communication mode
-    ETC = false;                                                            
+    ETC = true;                                                            
 % Store broadcast signals
   % Broadcast signals for transmiting gamma
     Tracker1.Com_Control = [];           
