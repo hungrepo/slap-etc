@@ -1,4 +1,4 @@
-# slap-etc
+# Descriptions 
 This repo contains the matlab code to generate the results in the paper entitled:
 
 **Target localization and pursuit with networked robotic vehicles: theory and experiments**
