@@ -1,7 +1,7 @@
 # slap-etc
 This repo contains the matlab code to generate the results in the paper entitled:
 
-*Target localization and pursuit with networked robotic vehicles: theory and experiments*
+**Target localization and pursuit with networked robotic vehicles: theory and experiments**
 
 *Authors*: Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, Institute for System and Robotic, IST, Lisbon
 
