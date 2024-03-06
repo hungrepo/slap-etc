@@ -5,7 +5,7 @@ This repo contains the matlab code to generate the results in the paper entitled
 
 *Authors*: Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, Institute for System and Robotic, IST, Lisbon
 
-*Status*: Under review at the IEEE robotics automation letters
+*Status*: Under review
 
 Contact: hung.seadc@gmail.com
 
@@ -20,7 +20,7 @@ If you find the code useful and would like to cite, please reference to the foll
 
 Authors: Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, Institute for System and Robotic, IST, Lisbon
 
-The paper was submited and under review at IEEE robotics automation letters
+The paper was submited and under review 
 
 More information:
 https://nt-hung.github.io/research/Range-based-target-localization/
