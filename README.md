@@ -5,12 +5,12 @@ This repo contains the matlab code to generate the results in the paper entitled
 
 *Authors*: Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, Institute for System and Robotic, IST, Lisbon
 
-*Status*: Under review
+*Status*: accepted for publication in the Journal of Field Robotics 
 
 Contact: hung.seadc@gmail.com
 
 # Simulation and Animation
-To see simulation results and animations, run 
+To see simulation results and animations, after clone the repo run 
 
 - For 2D: SLAP_2D_3Trackers_ETC.m
 - For 3D: SLAP_3D_3Trackers_ETC.m
@@ -20,7 +20,7 @@ If you find the code useful and would like to cite, please reference to the foll
 
 Authors: Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, Institute for System and Robotic, IST, Lisbon
 
-The paper was submited and under review 
+The paper was accepted for publication at the Journal of Field Robotic 
 
 More information:
 https://nt-hung.github.io/research/Range-based-target-localization/
