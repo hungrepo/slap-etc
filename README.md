@@ -7,6 +7,8 @@ This repo contains the matlab code to generate the results in the paper entitled
 
 *Status*: accepted for publication in the Journal of Field Robotics 
 
+The ROS version can be found at https://github.com/dsor-isr/slap
+
 Contact: hung.seadc@gmail.com
 
 # Simulation and Animation
