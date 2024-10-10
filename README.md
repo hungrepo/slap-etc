@@ -19,6 +19,7 @@ To see simulation results and animations, after clone the repo run
 
 # Reference
 If you find the code useful and would like to cite, please reference to the following paper:
+Target localization and pursuit with networked robotic vehicles: theory and experiments, 
 
 Authors: Nguyen Hung, Eduardo Cunha, Francisco Branco, Antonio Pascoal, Institute for System and Robotic, IST, Lisbon
 
